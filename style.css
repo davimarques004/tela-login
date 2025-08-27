@@ -53,7 +53,7 @@ a {
 }
 
 button {
-  background-color: #9334e8;
+  background-color: #58c4e6;
   color: white;
   border: none;
   width: 100%;
@@ -65,7 +65,7 @@ button {
 }
 
 button:hover {
-  background-color: #a75fe8;
+  background-color: #d6d1d1;
 }
 
 p {
