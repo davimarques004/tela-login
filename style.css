@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #585858;
+  background-color: #f3f4f6;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   justify-content: center;
@@ -65,7 +65,7 @@ button {
 }
 
 button:hover {
-  background-color: #d6d1d1;
+  background-color: #68bcf3;
 }
 
 p {
